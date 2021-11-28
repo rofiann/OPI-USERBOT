@@ -1,7 +1,7 @@
 {
-  "name": "Kyy-Userbot",
-  "description": "KYY-USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/d1b37552917a932acf672.jpg",
+  "name": "OPI-USERBOT",
+  "description": "OPI-USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "logo": "https://telegra.ph/file/2d149de545e9c0b8f2a6e.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/muhammadrizky16/Kyy-Userbot/Kyy-Userbot",
-  "telegram": "https://t.me/IDnyaKosong",
+  "repository": "https://github.com/rofiann/OPI-USERBOT/OPI-USERBOT",
+  "telegram": "https://t.me/ROFIAAN",
   "success_url": "https://t.me/ahhsudahlahhh",
   "stack": "container",
   "env": {
@@ -23,7 +23,7 @@
       "required": true
     },
      "STRING_SESSION": {
-      "description": "Dapatkan String Session di termux caranya ada di repo, jika tidak tau reponya tanya ke @IDnyaKosong di telegram",
+      "description": "Dapatkan String Session di termux caranya ada di repo, jika tidak tau reponya tanya ke @rofiaan di telegram",
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -86,7 +86,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Default Bio Mu.",
-      "value": "✨Kyy-Userbot✨",
+      "value": "✨OPI-USERBOT✨",
       "required": false
     },
     "ALIVE_NAME": {
@@ -95,12 +95,12 @@
     },
      "ALIVE_LOGO": {
       "description": "Gambar dalam module .alive",
-      "value": "https://telegra.ph/file/d1b37552917a932acf672.jpg",
+      "value": "https://telegra.ph/file/2d149de545e9c0b8f2a6e.jpg",
       "required": false
     },
     "KYY_TEKS_KUSTOM": {
       "description": "Kustom Pesan Alive Mu Untuk Perintah .kyyalive (Isi Terserah)",
-      "value": "I'am Using Kyy-Userbot ✨",
+      "value": "I'am Using OPI-USERBOT ✨",
       "required": false 
     },
     "S_PACK_NAME": {
