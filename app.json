@@ -10,8 +10,8 @@
     "productivity"
   ],
   "repository": "https://github.com/rofiann/OPI-USERBOT/OPI-USERBOT",
-  "telegram": "https://t.me/kyy-Userbot",
-  "success_url": "https://t.me/ahhsudahlahhh",
+  "telegram": "https://t.me/rofiann",
+  "success_url": "https://t.me/rofiann",
   "stack": "container",
   "env": {
     "API_KEY": {
